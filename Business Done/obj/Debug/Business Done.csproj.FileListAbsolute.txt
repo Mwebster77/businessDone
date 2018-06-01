@@ -1,0 +1,10 @@
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business_Done.Form1.resources
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business_Done.Properties.Resources.resources
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business Done.csproj.GenerateResource.Cache
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business Done.csproj.CoreCompileInputs.cache
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business Done.csprojResolveAssemblyReference.cache
+D:\Google Drive\c# Projects\Business Done\Business Done\bin\Debug\Business Done.exe.config
+D:\Google Drive\c# Projects\Business Done\Business Done\bin\Debug\Business Done.exe
+D:\Google Drive\c# Projects\Business Done\Business Done\bin\Debug\Business Done.pdb
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business Done.exe
+D:\Google Drive\c# Projects\Business Done\Business Done\obj\Debug\Business Done.pdb
